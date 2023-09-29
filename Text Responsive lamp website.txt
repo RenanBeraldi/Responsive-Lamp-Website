@@ -122,7 +122,7 @@ LIGHT
 .section__title
 Latest Features
 
-.choose__description
+.features__description
 We always provide the latest and best 
 features for your customer, don't worry, we 
 provide the latest technology for you.
