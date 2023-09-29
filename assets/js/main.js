@@ -52,6 +52,10 @@ const popularSwiper = new Swiper(".popular__content", {
     768: {
       centeredSlides: false,
     },
+
+    1152: {
+      loop: true,
+    },
   },
 });
 
