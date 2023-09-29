@@ -115,6 +115,4 @@ const scrollActive = () => {
 
 window.addEventListener("scroll", scrollActive);
 
-/*=============== DARK LIGHT THEME ===============*/
-
 /*=============== SCROLL REVEAL ANIMATION ===============*/
