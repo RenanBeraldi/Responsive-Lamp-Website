@@ -215,7 +215,7 @@ img {
 }
 
 .nav__link:hover {
-  background-color: var(--third-gradient);
+  background: var(--third-gradient);
   background-clip: text;
   -o-background-clip: text;
   -moz-background-clip: text;
